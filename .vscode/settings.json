@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./first_package_by_shibilicv/src"
+    ]
+}
